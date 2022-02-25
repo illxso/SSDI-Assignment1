@@ -1,5 +1,5 @@
 # Assignment 1
-Implementation of the design pattern.
+Implementation of a design pattern for SSDI 2022, CSCI 2020U
 
 Chosen pattern: Factory Pattern
 
